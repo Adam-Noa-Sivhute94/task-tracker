@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Cleaning Campaign",
+      "day": "20th August at 8:am",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Going to the Gym",
+      "day": "12th July at 5:30pm",
+      "reminder": "false",
+      "id": 2
+    }
+  ]
+}
